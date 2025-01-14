@@ -9,7 +9,7 @@
   </a>
 </p>
 
-## About me
+## 📄 About me
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying Computer Science at UFABC.
